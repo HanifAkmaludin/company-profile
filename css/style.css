@@ -1,0 +1,37 @@
+.slider h3,
+.slider h5,
+.clients h3{
+	text-shadow: 1px 1px 3px rgba(0,0,0,0.5);
+}
+.parallax-container{
+	height: 20%;
+}
+.parallax img{
+	filter: grayscale(1);
+	opacity: 0.5 !important;
+}
+.clients img{
+    max-width: 150px;
+    filter: drop-shadow(1px 1px 1px rgba(0,0,0,0.8));
+}
+section, footer{
+	padding: 20px 0;
+}
+.portfolio .container img{
+	border-radius: 10px;
+}
+.about .container p{
+	text-align: justify;
+}
+.contact .container form .card-panel{
+	height: 457px;
+}
+.contact .container .card-panel{
+	border-radius: 20px;
+}
+.contact .container .collection{
+	border-radius: 20px;
+}
+section .container .card-panel{
+	border-radius: 20px;
+}
